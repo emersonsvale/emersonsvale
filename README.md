@@ -40,7 +40,7 @@ Atualmente desenvolvo e mantenho produtos como:
 ---
 
 ## 🌐 Onde me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/emersonti  
-- **Portfólio / Projetos:** *em breve*  
+- **LinkedIn:** https://www.linkedin.com/in/emersonsvale  
+- **Portfólio / Projetos:** *[[v](https://www.valeapps.com)](https://valeapps.com.br/)*  
 
 ---
