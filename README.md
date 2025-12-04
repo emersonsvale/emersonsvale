@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá, eu sou o Emerson 👋
 
-<!--
-**emersonsvale/emersonsvale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Engenheiro de Software focado no desenvolvimento de produtos digitais e soluções SaaS. Atuo no design, arquitetura e implementação de aplicações modernas, escaláveis e orientadas a dados — sempre com foco em performance, segurança e experiência do usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Trabalho com desenvolvimento de aplicações web e mobile utilizando principalmente:
+- **Dart / Flutter**
+- **Vue / Nuxt**
+- **TypeScript / JavaScript**
+- **SQL / PostgreSQL**
+- **Python**
+
+Tenho experiência em:
+- Arquitetura de sistemas multi-tenant  
+- APIs REST e microsserviços  
+- Modelagem de dados e segurança com regras de acesso  
+- Integrações com serviços externos  
+- Automação de processos e orquestração de fluxos  
+- Produtos SaaS de ponta a ponta: do backend à camada de entrega  
+
+Atualmente desenvolvo e mantenho produtos como:
+- **Zapifyne** — Plataforma de automação e atendimento com IA  
+  https://zapifine.com/
+
+- **Fenci** — Sistema de gestão financeira pessoal e corporativa  
+  https://fenci.com.br
+
+---
+
+## 📌 O que eu entrego
+- Arquiteturas escaláveis para SaaS  
+- Modelagem clara e segura de banco de dados  
+- Desenvolvimento consistente do frontend ao backend  
+- Integrações robustas entre sistemas e serviços externos  
+- Documentação técnica e pipelines automatizados  
+- Criação de produtos digitais completos, da ideia ao deploy  
+
+---
+
+## 🌐 Onde me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/emersonti  
+- **Portfólio / Projetos:** *em breve*  
+
+---
