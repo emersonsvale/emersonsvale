@@ -27,6 +27,9 @@ Atualmente desenvolvo e mantenho produtos como:
 - **Fenci** — Sistema de gestão financeira pessoal e corporativa  
   https://fenci.com.br
 
+- **OOHH Food** — Sistema de gestão para restaurantes com Cardápio digital e CRM integrado!  
+  https://oohhfood.com.br
+
 ---
 
 ## 📌 O que eu entrego
